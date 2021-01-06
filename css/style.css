@@ -1,0 +1,169 @@
+html {
+	font-family: sans-serif;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+}
+
+#map
+{ 
+	background: #F5F3EE; 
+	height: 100%;
+	width: 100%;
+}
+
+.leaflet-popup-pane, .leaflet-control {
+    font-size: medium;
+}
+
+.HomeButton {
+	position: absolute;
+	top: 20%;
+	left: 0.5%;
+	height: 30px;
+	width: 30px;
+	z-index: 400;
+}
+
+ /* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 400; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: hidden; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  align-content: center;
+}
+
+/* The Close Button */
+#closeButton {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  margin-right: 10%;
+}
+
+#closeButton:hover,
+#closeButton:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+} 
+
+.cluster {
+	background-clip: padding-box;
+	border-radius: 20px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 30px;
+}
+.access {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.access div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+.activity {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.activity div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+.bike {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.bike div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+.camping {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.camping div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+.food {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.food div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+.heritage {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.heritage div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+.interpret {
+background-color: rgba(255, 205, 0, 0.6);
+}
+.interpret div {
+background-color: rgba(255, 205, 0, 0.6);
+}
+.model {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.model div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+.planet {
+background-color: rgba(218, 94, 94, 0.6);
+}
+.planet div {
+background-color: rgba(226, 36, 36, 0.6);
+}
+
+#logo{
+	left: 0.5%;
+	bottom: 0.5%;
+	position: absolute;
+	width: 200px;
+	height:100px;
+	z-index: 400;
+}
+
+#interpretImg{
+	width:75%;
+	height: 95%;
+	overflow: hidden;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+#interpretLink {
+	bottom: 0%;
+	left: 40%;
+	position: absolute;
+	color: white;
+}
+
+@media only screen and (max-width: 400px) { 
+  .leaflet-popup-content { 
+    font-size: small; 
+	max-width: 200px;
+	max-height: 250px;
+	overflow: auto;
+  } 
+  #popupTitle {
+	font-size: medium !important;  
+  }
+  #popupImg {
+	width: 150px;
+	height: 150px;
+  }
+  #logo {
+	width: 80px;
+	height: 50px;
+  }
+  .leaflet-control-layers-expanded{
+    font-size: small; 	  
+  }
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Sun", "type": "planet", "color": "#FFFB00", "icon": null, "info": "Star", "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.112675446435444, 53.925305128852607 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Venus", "type": "planet", "color": "#ff8000", "icon": null, "info": null, "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.11085418084427, 53.924042152911881 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Earth", "type": "planet", "color": "#0099ff", "icon": null, "info": "Our home planet", "image": "https:\/\/i.dlpng.com\/static\/png\/3953573-fileearth-the-noun-projectsvg-wikimedia-commons-png-earth-black-and-white-2000_2000_preview.webp" }, "geometry": { "type": "Point", "coordinates": [ -1.110263770570208, 53.923588415055789 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Mercury", "type": "planet", "color": "#8080ff", "icon": null, "info": null, "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.11155133195884, 53.924537134039213 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Brunswick Cafe", "type": null, "color": null, "icon": "css\/Images\/cafe.jpg", "info": null, "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.099492952632659, 53.91621497478851 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Jupiter", "type": "planet", "color": "#cc0000", "icon": null, "info": null, "image": "https:\/\/www.york.ac.uk\/solar\/assets\/images\/IMG_4419.JPG" }, "geometry": { "type": "Point", "coordinates": [ -1.099232506417877, 53.916172536563479 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Uranus", "type": "planet", "color": "#00ffff", "icon": null, "info": null, "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.071429393936955, 53.88813903694647 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Neptune", "type": "planet", "color": "#00b3b3", "icon": null, "info": null, "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.062210025647483, 53.863351888068266 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Pluto", "type": "planet", "color": "#999900", "icon": null, "info": null, "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.05632343562566, 53.841435064091428 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Mars", "type": "planet", "color": "#ff0000", "icon": null, "info": null, "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.108732839964778, 53.922599267954098 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Narburn Railway Bridge", "type": null, "color": null, "icon": null, "info": null, "image": "http:\/\/railwaytogreenway.org\/wp-content\/uploads\/2017\/08\/cid_B3407F6D-4ECB-4F77-A53C-D4304150B12E-Ouse-Bridge-768x564.jpg" }, "geometry": { "type": "Point", "coordinates": [ -1.091269609142709, 53.911032378387972 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Sign Post", "type": null, "color": null, "icon": null, "info": "Information about the Solar Way", "image": null }, "geometry": { "type": "Point", "coordinates": [ -1.080905759283441, 53.901029814526346 ] } }
+]
+}
