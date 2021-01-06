@@ -66,56 +66,29 @@ html {
 .access {
 background-color: rgba(218, 94, 94, 0.6);
 }
-.access div {
-background-color: rgba(226, 36, 36, 0.6);
-}
 .activity {
 background-color: rgba(218, 94, 94, 0.6);
-}
-.activity div {
-background-color: rgba(226, 36, 36, 0.6);
 }
 .bike {
 background-color: rgba(218, 94, 94, 0.6);
 }
-.bike div {
-background-color: rgba(226, 36, 36, 0.6);
-}
 .camping {
 background-color: rgba(218, 94, 94, 0.6);
-}
-.camping div {
-background-color: rgba(226, 36, 36, 0.6);
 }
 .food {
 background-color: rgba(218, 94, 94, 0.6);
 }
-.food div {
-background-color: rgba(226, 36, 36, 0.6);
-}
 .heritage {
 background-color: rgba(218, 94, 94, 0.6);
 }
-.heritage div {
-background-color: rgba(226, 36, 36, 0.6);
-}
 .interpret {
-background-color: rgba(255, 205, 0, 0.6);
-}
-.interpret div {
 background-color: rgba(255, 205, 0, 0.6);
 }
 .model {
 background-color: rgba(218, 94, 94, 0.6);
 }
-.model div {
-background-color: rgba(226, 36, 36, 0.6);
-}
 .planet {
 background-color: rgba(218, 94, 94, 0.6);
-}
-.planet div {
-background-color: rgba(226, 36, 36, 0.6);
 }
 
 #logo{
