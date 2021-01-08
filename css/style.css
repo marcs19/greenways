@@ -101,8 +101,8 @@ background-color: rgba(202, 1, 244, 0.6);
 }
 
 #interpretImg{
-	width:75%;
-	height: 95%;
+	width:65%;
+	height: auto%;
 	overflow: hidden;
     position: absolute;
     top: 50%;
