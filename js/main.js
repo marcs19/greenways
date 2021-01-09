@@ -98,9 +98,9 @@ for (i in groups) {
 	var classGroup = 'cluster ' + groups[i];
 	clusters[i] = new L.markerClusterGroup({
 		iconCreateFunction: function(cluster) {
-			var numberMarkers = cluster.getAllChildMarkers().length;
+			var childCount = cluster.getAllChildMarkers().length;
 			if (cluster.getAllChildMarkers().length != 0) { var classGroup = 'cluster ' + cluster.getAllChildMarkers()[0].feature.properties.type};
-			return new L.DivIcon({html:  numberMarkers, className: classGroup, iconSize: new L.Point(30, 30)});
+			return new L.DivIcon({html:  '<div><span>' + childCount + '</span></div>', className: classGroup, iconSize: new L.Point(30, 30)});
 		}
 	});
 	clusters[i].type = groups[i] ;
