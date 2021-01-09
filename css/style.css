@@ -59,9 +59,19 @@ html {
 .cluster {
 	background-clip: padding-box;
 	border-radius: 20px;
+}
+.cluster div {
+	width: 20px;
+	height: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+	border-radius: 10px;
+	
 	text-align: center;
 	vertical-align: middle;
-	line-height: 30px;
+	line-height: 20px;
+	
+	background-color: rgba(254, 254, 254, 0.6);
 }
 .access {
 background-color: rgba(218, 94, 94, 0.6);
