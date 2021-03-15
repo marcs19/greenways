@@ -107,6 +107,7 @@ function onEachPoint(feature, layer) {
 
 var clusters;
 var groups;
+var solarwayLine;
 
 function clusterizeMarkers() {
   groups = [...pointSet];
@@ -140,6 +141,19 @@ function clusterizeMarkers() {
     }
     map.addLayer(clusters[i]);
   }
+  
+  solarwayLine = L.geoJson(solarway, {
+    style: function () {
+      return {
+        stroke: true,
+        color: "red",
+        weight: 5,
+      };
+    },
+  });
+  map.addLayer(solarwayLine);
+  solarwayLine.bringToBack();
+  
   let overlayMaps2 = { SolarWay: solarway };
   for (let i = 0; i < clusters.length - 1; i++) {
     let elementToAdd;
@@ -150,6 +164,7 @@ function clusterizeMarkers() {
     }
     overlayMaps2[elementToAdd] = clusters[i];
   }
+ 
   L.control.layers(null, overlayMaps2, { collapsed: false }).addTo(map);
 }
 
@@ -198,17 +213,5 @@ window.onclick = function (event) {
     modal.style.display = "none";
   }
 };
-
-var solarway = L.geoJson(solarway, {
-  style: function () {
-    return {
-      stroke: true,
-      color: "red",
-      weight: 5,
-    };
-  },
-});
-
-map.addLayer(solarway);
 
 document.getElementById("map").style.position = "";
