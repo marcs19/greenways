@@ -156,8 +156,4 @@ html {
   .leaflet-control-layers-expanded {
     font-size: small;
   }
-  .leaflet-marker-icon .leaflet-zoom-animated .leaflet-interactive {
-    width: 100px;
-    height: 100px;
-  }
 }
