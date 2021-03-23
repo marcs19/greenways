@@ -87,7 +87,7 @@ function onEachPoint(feature, layer) {
     }
     if (feature.properties.image.length != 0) {
       let img =
-        '<img id="popupImg" src=' +
+        '<img id="popupImg" style="display:block;margin-left:auto; margin-right:auto;" src=' +
         feature.properties.image +
         ' height="300px" width="300px"/><br>';
       popupContent = popupContent + img;
