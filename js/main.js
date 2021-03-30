@@ -60,7 +60,7 @@ function onEachPoint(feature, layer) {
   if (
     feature.properties.type == "interpret" &&
     feature.properties.image.length != 0 &&
-    document.body.clientWidth > 400
+    document.body.clientWidth > 500
   ) {
     layer.on("click", function (e) {
       map.closePopup();
@@ -164,7 +164,7 @@ function clusterizeMarkers() {
     overlayMaps2[elementToAdd] = clusters[i];
   }
   var collapsed = true;
-  if (document.body.clientWidth > 400) collapsed = false;
+  if (document.body.clientWidth > 500) collapsed = false;
   L.control
     .layers(null, overlayMaps2, {
       collapsed: collapsed,
@@ -213,7 +213,7 @@ map.on("popupopen", function (e) {
 });
 
 function closeControl() {
-  if (document.body.clientWidth < 400)
+  if (document.body.clientWidth < 500)
     document
       .getElementsByClassName("leaflet-control-layers")[0]
       .classList.remove("leaflet-control-layers-expanded");
