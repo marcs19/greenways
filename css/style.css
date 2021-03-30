@@ -148,7 +148,7 @@ html, body, #map {
   background: lightgray !important;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .leaflet-popup-content {
     font-size: x-small;
     max-width: 150px;
