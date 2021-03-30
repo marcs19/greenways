@@ -209,10 +209,18 @@ map.on("popupopen", function (e) {
   var px = map.project(e.target._popup._latlng); // find the pixel location on the map where the popup anchor is
   px.y -= e.target._popup._container.clientHeight / 2; // find the height of the popup container, divide by 2, subtract from the Y axis of marker location
   map.panTo(map.unproject(px), { animate: true }); // pan to new center
-  document
-    .getElementsByClassName("leaflet-control-layers")[0]
-    .classList.remove("leaflet-control-layers-expanded");
+  closeControl();
 });
+
+document.querySelector(".HomeButton").onClick(closeControl());
+
+function closeControl() {
+  if (document.body.clientWidth < 400)
+    document
+      .getElementsByClassName("leaflet-control-layers")[0]
+      .classList.remove("leaflet-control-layers-expanded");
+}
+
 // When the user clicks on <span> (x), close the modal
 const closeButton = document.getElementById("closeButton");
 closeButton.onclick = function () {
