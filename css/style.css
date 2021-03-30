@@ -143,6 +143,11 @@ html, body, #map {
   color: white;
 }
 
+.leaflet-touch .leaflet-control-zoom-in,
+.leaflet-touch .leaflet-control-zoom-out {
+  background: lightgray !important;
+}
+
 @media screen and (max-width: 400px) {
   .leaflet-popup-content {
     font-size: x-small;
