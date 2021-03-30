@@ -212,8 +212,6 @@ map.on("popupopen", function (e) {
   closeControl();
 });
 
-document.querySelector(".HomeButton").onClick(closeControl());
-
 function closeControl() {
   if (document.body.clientWidth < 400)
     document
