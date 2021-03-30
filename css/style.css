@@ -4,6 +4,12 @@ html {
   padding: 0;
 }
 
+html, body, #map {
+  background: #f5f3ee;
+  height: 100%;
+  width: 100vw;
+}
+
 #map {
   background: #f5f3ee;
   height: 100%;
