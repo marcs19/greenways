@@ -170,7 +170,7 @@ html {
   .leaflet-container a {
     color: Black !important;
     text-decoration: none;
-    background: none;
+    background: none !important;
     display: ruby;
   }
   .HomeButton {
