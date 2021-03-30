@@ -33,7 +33,7 @@
 		</div>
 		<!-- Link to Javascript File for map--> 
 		<script src="js/main.js"></script>
-		<img class="HomeButton" title="Home" src="css\\\/Images\\\/home.svg" onClick="map.setView([ 53.902512, -1.079302], 12), modal.style.display = 'none', map.closePopup()"></img>
+		<img class="HomeButton" title="Home" src="css\\\/Images\\\/home.svg" onClick="map.setView([ 53.902512, -1.079302], 12), modal.style.display = 'none', map.closePopup(), document.getElementsByClassName('leaflet-control-layers')[0].classList.remove('leaflet-control-layers-expanded')"></img>
 		<div id = "control"></div>
   </div>
     </body>
