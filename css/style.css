@@ -12,11 +12,13 @@ html, body, #map {
 }
 
 #map {
-  background: #f5f3ee;
-  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
   width: 100%;
+  right: 0;
+  left: 0;
 }
-
 .leaflet-popup-pane,
 .leaflet-control {
   font-size: medium;
