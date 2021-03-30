@@ -141,7 +141,7 @@ html, body, #map {
   color: white;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (device-width: 400px) {
   .leaflet-popup-content {
     font-size: x-small;
     max-width: 150px;
