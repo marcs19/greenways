@@ -1,0 +1,87 @@
+name;latitude;longitude;type;url;image;text;icon
+Keble Park North;53.91646268;-1.099061295;Access;;;Access Point Chicane;Access.svg 
+Sim Balk Lane;53.92746954;-1.109520941;Access;;;Access Point Chicane;Access.svg 
+Start of Off road path to York;53.838090;-1.055638;Access;;;;Access.svg 
+Access from Naburn Lane;53.908463;-1.087454;Access;;;;Access.svg 
+Access from Howden Lane;53.908463;-1.087454;Access;;;;Access.svg 
+Access from Acaster Lane;53.912684;-1.093530;Access;;;;Access.svg 
+Access to Brunswick Organic Nursery when open;53.9187568177274;-1.102542610354968;Access;;;;Access.svg 
+Access f rom Copmanthorpe Lane;53.920381;-1.105434;Access;;;;Access.svg 
+Access from Appleton Court;53.919171;-1.103658;Access;;;;Access.svg 
+Vicarage Lane;53.902569;-1.082134;Access;;;;Access.svg 
+Moor Lane;53.893808;-1.076469;Access;;;;Access.svg 
+Bishopthopre Road;53.939515;-1.087780;Access;;;;Access.svg 
+Millennium Bridge;53.945489;-1.083274;Access;;;;Access.svg 
+Naburn Grange;53.89214082;-1.092711982;Activity;http://www.adveb.co.uk/naburn/;;;Activity.svg 
+Canoe Club;53.92155429;-1.088664852;Activity;http://lowerwharfe.org.uk/;;;canoe.png 
+Bishopthorpe Bowling Club;53.91873786;-1.09221164;Activity;http://www.bishopthorpe-bc.co.uk/community/bishopthorpe-bowling-club-10044/home/;;;Activity.svg 
+Wall Of Sound;53.92269127;-1.100646192;Activity;https://wallofsound.co.uk/bishopthorpe/;;;Activity.svg 
+Bishopthorpe Tennis Club;53.91873786;-1.09221164;Activity;http://www.bishtennis.btck.co.uk/;;;Activity.svg 
+York Railway Institute Sailing Club;53.9115511;-1.091896655;Activity;https://yrisc.org/;;;Activity.svg 
+Twisted Cogs;53.92236495;-1.094869003;Bike_repair;http://www.twistedcogs.co.uk/;;;Bike_repair.svg 
+Cycle Heaven;53.94599721;-1.078546759;Bike_repair;https://www.cycle-heaven.co.uk/;;;Bike_repair.svg 
+Get Cycling;53.94491743;-1.077355859;Bike_repair;https://www.getcycling.org.uk/;;;Bike_repair.svg 
+Dairymans;53.833610;-1.062267;Cafe;;;;Cafe.svg 
+Fred home bakery;53.92151495;-1.100138988;Cafe;https://fredshomebakery.com/;;;Cafe.svg 
+Bishopthorpe Sports & Social Club;53.92100523;-1.098087721;Cafe;https://bishopthorpeclub.co.uk/;;;Cafe.svg 
+Middlethorpe Hall Spa & Restaurant;53.93070406;-1.089956916;Cafe;https://www.middlethorpe.com/;;;Cafe.svg 
+York Marina;53.90610677;-1.089222821;Cafe;https://www.yorkmarina.co.uk/waterfront-cafe/;;;Cafe.svg 
+But First;53.92215821;-1.094774163;Cafe;https://www.facebook.com/ButFirstCafe/;;;Cafe.svg 
+Brunswick Organic Nursery;53.91849201;-1.103496707;Cafe;https://www.brunswickyork.org.uk/;;;Cafe.svg 
+Community Garden;53.840357;-1.056239;Cafe;;;;Cafe.svg 
+Trust Hut;53.907796;-1.086857;Cafe;;;;Cafe.svg 
+Naburn Lock Campsite;53.89437358;-1.093748071;Camping;https://www.yorknaburnlock.com/;;;Camping.svg 
+Manor Farm Caravan Park;53.93577777;-1.086955439;Camping;http://www.manorfarmcaravanparkyork.co.uk/;;;Camping.svg 
+St Andrews;53.92238827;-1.091229044;Heritage;http://standrewstrust.co.uk/;;;Heritage.svg 
+Bishopthorpe Palace;53.92327278;-1.092130266;Heritage;https://www.archbishopofyork.org/archbishop-york/about-bishopthorpe-palace;;https://historicengland.org.uk/listing/the-list/list-entry/1132487;Heritage.svg 
+Bishopthorpe Methodist Church Hall;53.92064644;-1.106789892;Heritage;https://www.yorkmethodist.org.uk/churches/circuit-churches/bishopthorpe.html;;;Heritage.svg 
+Listed Buildings in Bishopthorpe;53.9216362;-1.100105888;Heritage;https://britishlistedbuildings.co.uk/england/bishopthorpe-york#.X70oL7PgqUl;;;Heritage.svg 
+Challoners Whin;53.929003;-1.116873;Info_board;http://railwaytogreenway.org/challoners-whin/;;The northern-most end of the Solar System Greenway near where the 1860s diversion re-joined the original line to Edinburgh via West Yorkshire;Info_board.svg
+The Solar System - York end;53.925369;-1.112563;Info_board;http://railwaytogreenway.org/about/;css\/Images\/about.jpg;Located where the cycle path form  York across the Knavesmire race-course joins the Solar System Greenway. Leaflets are available in a distribution box attached to the side of the board;Info_board.svg
+The River Ouse;53.911023;-1.091162;Info_board;http://railwaytogreenway.org/river/;css\/Images\/ouse.jpg;A history of traffic on the River Ouse from pre-Roman times to the present day;Info_board.svg
+Invasive Species;53.910111;-1.089909;Info_board;http://railwaytogreenway.org/himalayan-balsam/ ;css\/Images\/species.jpg;Information on Invasive species such as Himalayan Balsam and their impact on bio-diversity;Info_board.svg
+Minster View;53.90649;-1.085448;Info_board;;;The mound near this board was built to provide a viewpoint for York Minster. Unfortunately an oak tree now obscures the view so we have built a seat from which the central tower of the Minster can be seen in the distance;Info_board.svg
+The Selby Coalfield;53.87196;-1.065591;Info_board;http://railwaytogreenway.org/coalfield/;css\/Images\/coal.jpg;Next to a grinding wheel from the Selby Pit - Europes biggest and most productive deep mine. Its opening in the  1980s necesitated the diversion of the rail line to the west;Info_board.svg
+Escrick Sidings;53.867364;-1.063503;Info_board;http://railwaytogreenway.org/escrick-sidings/;css\/Images\/escrick.jpg;Although not close to the village the sidings were built for Lord Wenlock who owned muchof the land on which the railway was to be built;Info_board.svg
+The Solar System Greenway - Riccall end;53.842142;-1.056561;Info_board;http://railwaytogreenway.org/about/;css\/Images\/riccall.jpg;Located in the 'bus-stop' shelter at the bottom of the ramp to Pluto near the Riccall end ofthe Greenway;Info_board.svg
+Greener Greenways Orchard;53.923989;-1.111115;Info_board;https://www.sustrans.org.uk/our-blog/projects/2019/uk-wide/greener-greenways/;;The last project of Sustrans Greener Greenways project in this area was the creation of a 'community orchard' along the path between Earth and Mars. Not to be confused with Bishopthorpe's own community orchard.  oth reflexct the villages historical abundance of orchards.;Info_board.svg
+Bird Hide;53.902159;-1.081748;Nature;;;;Nature.svg 
+Bird Hide;53.900156;-1.080150;Nature;;;;Nature.svg 
+Wetland Habitat;53.881114;-1.067208;Nature;;;;Nature.svg 
+Bug Hotel;53.870709;-1.064105;Nature;;;;Nature.svg 
+Picnic spot;53.867633;-1.063607;Picnic;;;Picnic spot;Picnic.svg 
+Sheltered seating and information;53.842173;-1.056475;Picnic;;;Sheltered seating and information;Picnic.svg 
+Picnic spot;53.840357;-1.056239;Picnic;;;Riccall Community Garden;Picnic.svg  
+Bus shelter Bird Hide;53.902582;-1.081965;Picnic;;;;Picnic.svg 
+The Sun;53.925278;-1.112642;Planet;;css\/Images\/sun.jpg;;Planet.svg 
+Mercury;53.924856;-1.11174;Planet;https://solarsystem.nasa.gov/planets/mercury/overview/;css\/Images\/mercury.jpg;Mercury is the closest planet to the Sun and moves at 200,000 Km/hr and has the greatest temperature variations in the solar system. It takes only 88 days to orbit the sun but only experiences about two days during this time. It is too close to the sun to be safely imaged by the Hubble Space Telescope and has only been visited by the Mariner 10 in 1974-1975.;Planet.svg 
+Venus;53.924073;-1.110818;Planet;;css\/Images\/venus.jpg;Venus is the second planet from the Sun with a day taking longer than its year. Its reflective clouds of sulphuric acid make Venus the third brightest object in the sky. Its atmosphere of carbon dioxide is 90 times denser than Earth's and global warming leads to an average surface temperature hot enough to melt lead.;Planet.svg 
+Earth;53.923608;-1.110126;Planet;;css\/Images\/earth.jpg;Earth is the only known place in the universe to sustain life. It is often known as the blue planet because it is covered in approximately 71% water. The core of the planet is made of molten iron on which huge plates of land float.;Planet.svg 
+Mars;53.922643;-1.108726;Planet;;css\/Images\/mars.jpg;Mars is often known as the red planet because its surface is covered in a compound called Iron Oxide (more commonly known as rust). It shows many geological signs of once having water which suggests that there may have once been life. Mars has the largest volcano in the solar system, Olympus Mons, which is three times the size of Mount Everest.;Planet.svg 
+Jupiter;53.916316;-1.099221;Planet;;css\/Images\/mars.jpg;Jupiter is the largest of the planets and the first of the gas giants. It is mostly made of hydrogen and helium and if it had been much larger it would have become a star. The characteristic ‘red spot’ is actually a giant storm that has been raging for over 300 years. It is so large that three earths would fit inside it. Jupiter has 57 moons, 4 of these are so large they can be seen with binoculars. These 4 Galilean moons are Io, Europa, Callisto and Ganymede.;Planet.svg 
+Saturn;53.908562;-1.087887;Planet;;css\/Images\/saturn.jpg;Saturn is famous for its bright rings (which were discovered by Christian Huygens in 1659) and whilst they look incredibly delicate they are up to 1.5km thick. Saturn has 50 moons, the largest moon Titan is the second largest in the solar system (second only to Ganymede) and holds its own atmosphere. Saturn has a very low density, so low that if you were to put it in a large enough bathtub it would float on the water.;Planet.svg 
+Uranus;53.888281;-1.071381;Planet;;css\/Images\/uranus.jpg;Uranus, the first planet to be discovered in modern times. Sir William Herschel, an amateur astronomer observed the planet on March 13th 1781 from a terraced house in Bath. He proposed that it be dedicated to the King and called ‘Georgium Sidus' - ‘George’s Star’ - but tradition prevailed and Uranus, the father of the Roman god Saturn, was chosen. Unlike most planets, Uranus has its south pole pointing almost directly at the Sun. Until Voyager 2 visited the planet in January 1986 only 5 moons were known to exist. Now we know of 27 moons, nearly all named after Shakespearean characters.;Planet.svg 
+Neptune;53.863433;-1.062224;Planet;;css\/Images\/neptune.jpg;Neptune, predicted to exist by the English astronomer and mathematician John Couch Adams when aged 24, was discovered in 1846. Neptune’s blue colour is caused by the absorption of red light by atmospheric methane. Due to the highly eccentric orbit of Pluto, Neptune is, at some times, further from the Sun than Pluto. Voyager 2 visited the planet in 1989 and is the source of most of our knowledge of the planet.;Planet.svg 
+Pluto;53.84142;-1.056308;Planet;;css\/Images\/pluto.jpg;In 2006 it was decided that Pluto was too small to be a planet and it was demoted to a dwarf planet. It is one of several dwarf planets in our solar system. The largest of which, Sierras, is in the asteroid belt between Mars and Jupiter. Despite being no longer considered a planet it does have a moon, Charon.;Planet.svg 
+The Ebor;53.92153097;-1.09554492;Pub;http://www.theeborinn-york.foodanddrinksites.co.uk/;;;Pub.svg 
+The Marcia;53.92156887;-1.098087653;Pub;https://www.marciainnbishopthorpe.co.uk/;;;Pub.svg 
+Woodman Inn;53.92119415;-1.097655616;Pub;https://thewoodmaninnpub.com/;;;Pub.svg 
+Ainsty Ales Brewery and Taproom;53.8948892;-1.106809737;Pub;https://ainstyales.co.uk/;;;Pub.svg 
+The Greyhound;53.83427619;-1.057813457;Pub;;;;Pub.svg 
+Hare and Hounds;53.83378076360303;-1.0591384685140925;Pub;;;;Pub.svg 
+Fisher of Dreams sculpture;53.911205;-1.091577;Sculpture;;css\/Images\/fisher.jpg;;Sculpture.svg 
+1/3 scale model Cassini;53.90825;-1.087444;Sculpture;;css\/Images\/cassini.jpg;;Sculpture.svg 
+1/3 scale model Voyager;53.840908;-1.056251;Sculpture;;;;Sculpture.svg 
+Maze;53.867337;-1.062306;Sculpture;;css\/Images\/maze.jpg;Picnic and play area;Sculpture.svg 
+NISA;53.83263537;-1.058164502;Store;https://www.nisalocally.co.uk/stores/north-yorkshire/york/52-main-st;;;Store.svg 
+Bus Stop at Pluto;53.842173;-1.056475;;;;Sheltered seating and information;Sculpture.svg
+Rowntree Park Caf�;53.948888191035195; -1.0826508775861516;Cafe;http://www.aroundyork.co.uk/place/rowntree-park-reading-cafe/;;Caf� in the park only yards from Millennium Bridge;Cafe.svg
+Little Yorkshire Coffee Co;53.941643844613; -1.0950574278140113;Cafe;https://thelittleyorkshirecoffeecompany.co.uk/splash.php;;Outdoor Caf� behind the Racecourse stands;Cafe.svg
+Tesco Extra;53.93099425108471; -1.115769775261811;Cafe;https://www.tesco.com/store-locator;;Supermarket with Caf�;Cafe.svg
+Askham Bar Park and Ride Entrance;53.929061295687575; -1.1164993362638425;Access;;;There are toilets;Access.svg
+Benches near Mars;53.923008; -1.109118;Picnic;;;Benches with litter Bin;Picnic.svg
+Grinding Wheel;53.87050289032626; -1.067030154756939;Sculpture;www.railwaytogreenway.org;;An actual grinding wheel from the Selby Coalfield;Sculpture.svg
+Stillingfleet Road;53.87199289032626; -1.064620154756939;Access;;;There is a car park via a steep unsurfaced track. Cars have been stuck in icy weather;Access.svg
+Hollicars Lodges and Campsite;53.84562127629387; -1.050539798577998;Camping;https://www.escrick.com/hollicarrs-holiday-park-timber-lodges-yorkshire;;Holiday Park with Lodges and Campsite;Camping.svg
+Millers Tea Room;53.84683723913621; -1.0473698804373963;Cafe;https://www.escrick.com/hollicarrs-holiday-park-timber-lodges-yorkshire;;Caf� within Hollicars Holiday Park;Cafe.svg
+Waterfront Caf�;53.90597143373023; -1.0890733398331403;Cafe;https://yorkmarina.co.uk/waterfront-cafe/;;Caf� and Restaurant overlookng the River at York Marina;Cafe.svg
