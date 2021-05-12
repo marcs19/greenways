@@ -69,53 +69,6 @@ html, body, #map {
   cursor: pointer;
 }
 
-.cluster {
-  background-clip: padding-box;
-  border-radius: 30px;
-}
-.cluster div {
-  width: 30px;
-  height: 30px;
-  margin-left: 5px;
-  margin-top: 5px;
-  border-radius: 15px;
-
-  text-align: center;
-  vertical-align: middle;
-  line-height: 30px;
-
-  background-color: rgba(254, 254, 254, 0.6);
-
-  font-size: 14px;
-}
-.access {
-  background-color: rgba(218, 94, 94, 0.6);
-}
-.activity {
-  background-color: rgba(253, 173, 0, 0.6);
-}
-.bike {
-  background-color: rgba(255, 122, 5, 0.6);
-}
-.camping {
-  background-color: rgba(12, 128, 20, 0.6);
-}
-.food {
-  background-color: rgba(48, 24, 3, 0.6);
-}
-.heritage {
-  background-color: rgb(100, 85, 67, 0.6);
-}
-.interpret {
-  background-color: rgba(84, 15, 236, 0.6);
-}
-.model {
-  background-color: rgba(36, 180, 45, 0.6);
-}
-.planet {
-  background-color: rgba(202, 1, 244, 0.6);
-}
-
 #logo {
   left: 0.5%;
   bottom: 0.5%;
